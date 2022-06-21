@@ -2,6 +2,10 @@
 owner: indoorequal
 repo: status
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 sites:
   - name: indoorequal.org
     url: https://indoorequal.org
@@ -10,7 +14,9 @@ sites:
 
 status-website:
   cname: status.indoorequal.org
-  logoUrl: https://raw.githubusercontent.com/indoorequal/indoorequal.org/master/icons/indoorequal.svg
+  logoUrl: https://raw.githubusercontent.com/indoorequal/indoorequal.org/master/icons/equal.svg
+  favicon: https://raw.githubusercontent.com/indoorequal/indoorequal.org/master/icons/favicon.png
+  faviconSvg: https://raw.githubusercontent.com/indoorequal/indoorequal.org/master/icons/equal.svg
   name: "indoor="
   introTitle: ""
   introMessage: "" 
