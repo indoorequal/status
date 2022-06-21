@@ -25,3 +25,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  customHeadHtml: '<script defer data-domain="status.indoorequal.org" src="https://plausible.io/js/plausible.js"></script>'
