@@ -1,0 +1,21 @@
+# Change these first
+owner: indoorequal
+repo: status
+
+sites:
+  - name: indoorequal.org
+    url: https://indoorequal.org
+  - name: Tiles
+    url: https://tiles.indoorequal.org?key=$API_KEY
+
+status-website:
+  cname: status.indoorequal.org
+  logoUrl: https://raw.githubusercontent.com/indoorequal/indoorequal.org/master/icons/indoorequal.svg
+  name: "indoor="
+  introTitle: ""
+  introMessage: "" 
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
