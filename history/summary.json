@@ -1,0 +1,38 @@
+[
+  {
+    "name": "indoorequal.org",
+    "url": "https://indoorequal.org",
+    "icon": "https://favicons.githubusercontent.com/indoorequal.org",
+    "slug": "indoorequal-org",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 655,
+    "timeDay": 655,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Tiles",
+    "url": "https://tiles.indoorequal.org?key=$API_KEY",
+    "icon": "https://favicons.githubusercontent.com/tiles.indoorequal.org",
+    "slug": "tiles",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 788,
+    "timeDay": 788,
+    "timeWeek": 788,
+    "timeMonth": 788,
+    "timeYear": 788,
+    "dailyMinutesDown": {}
+  }
+]
