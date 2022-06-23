@@ -9,8 +9,12 @@ skipHomepageUpdate: true
 sites:
   - name: indoorequal.org
     url: https://indoorequal.org
-  - name: Tiles
-    url: https://tiles.indoorequal.org?key=$API_KEY
+  - name: tiles.indoorequal.org
+    url: https://tiles.indoorequal.org/?key=$API_KEY
+  - name: Replication lag
+    url: https://tiles.indoorequal.org/replicationstatus
+    __dangerous__body_down: "ko"
+    __dangerous__body_degraded: "degraded"
 
 status-website:
   cname: status.indoorequal.org
