@@ -17,12 +17,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/indoorequal/indoorequal.org/master/icons/equal.svg
   favicon: https://raw.githubusercontent.com/indoorequal/indoorequal.org/master/icons/favicon.png
   faviconSvg: https://raw.githubusercontent.com/indoorequal/indoorequal.org/master/icons/equal.svg
-  name: "indoor="
+  name: "indoor= status"
   introTitle: ""
-  introMessage: "" 
+  introMessage: ""
   navbar:
-    - title: Status
-      href: /
+    - title: indoorequal.org
+      href: https://indoorequal.org/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   customHeadHtml: '<script defer data-domain="status.indoorequal.org" src="https://plausible.io/js/plausible.js"></script>'
