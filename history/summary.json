@@ -40,19 +40,19 @@
     "url": "https://tiles.indoorequal.org/replicationstatus",
     "icon": "https://favicons.githubusercontent.com/tiles.indoorequal.org",
     "slug": "replication-lag",
-    "status": "degraded",
-    "uptime": "99.30%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.30%",
-    "time": 105,
-    "timeDay": 90,
-    "timeWeek": 105,
-    "timeMonth": 105,
-    "timeYear": 105,
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 103,
+    "timeDay": 91,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {
-      "2022-06-25": 22
+      "2022-06-25": 30
     }
   }
 ]
