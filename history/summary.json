@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/tiles.indoorequal.org",
     "slug": "replication-lag",
     "status": "degraded",
-    "uptime": "99.66%",
-    "uptimeDay": "84.28%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.55%",
+    "uptimeDay": "78.24%",
+    "uptimeWeek": "96.89%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.55%",
     "time": 114,
     "timeDay": 127,
     "timeWeek": 125,
     "timeMonth": 116,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2022-08-13": 227,
+      "2022-08-14": 65,
+      "2022-08-13": 249,
       "2022-06-25": 22
     }
   }
