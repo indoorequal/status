@@ -40,7 +40,7 @@
     "url": "https://tiles.indoorequal.org/replicationstatus",
     "icon": "https://favicons.githubusercontent.com/tiles.indoorequal.org",
     "slug": "replication-lag",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.20%",
     "uptimeDay": "60.06%",
     "uptimeWeek": "94.29%",
