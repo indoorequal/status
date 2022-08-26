@@ -4,19 +4,19 @@
     "url": "https://indoorequal.org",
     "icon": "https://favicons.githubusercontent.com/indoorequal.org",
     "slug": "indoorequal-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 791,
-    "timeWeek": 708,
-    "timeMonth": 666,
-    "timeYear": 672,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 664,
+    "timeDay": 451,
+    "timeWeek": 633,
+    "timeMonth": 648,
+    "timeYear": 664,
     "dailyMinutesDown": {
-      "2022-08-26": 0
+      "2022-08-26": 18
     }
   },
   {
