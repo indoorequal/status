@@ -10,11 +10,11 @@
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
-    "time": 659,
-    "timeDay": 657,
-    "timeWeek": 569,
-    "timeMonth": 646,
-    "timeYear": 659,
+    "time": 656,
+    "timeDay": 522,
+    "timeWeek": 551,
+    "timeMonth": 638,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2022-08-27": 42,
       "2022-08-26": 18
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
-    "time": 663,
-    "timeDay": 530,
-    "timeWeek": 676,
-    "timeMonth": 677,
-    "timeYear": 663,
+    "time": 660,
+    "timeDay": 509,
+    "timeWeek": 655,
+    "timeMonth": 671,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2022-08-27": 42
     }
@@ -51,16 +51,34 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "98.26%",
     "uptimeYear": "99.22%",
-    "time": 115,
-    "timeDay": 115,
-    "timeWeek": 121,
-    "timeMonth": 119,
-    "timeYear": 115,
+    "time": 114,
+    "timeDay": 99,
+    "timeWeek": 117,
+    "timeMonth": 118,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2022-08-27": 42,
       "2022-08-14": 471,
       "2022-08-13": 249,
       "2022-06-25": 22
     }
+  },
+  {
+    "name": "taginfo.indoorequal.org",
+    "url": "https://taginfo.indoorequal.org/",
+    "icon": "https://favicons.githubusercontent.com/taginfo.indoorequal.org",
+    "slug": "taginfo-indoorequal-org",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 589,
+    "timeDay": 589,
+    "timeWeek": 589,
+    "timeMonth": 589,
+    "timeYear": 589,
+    "dailyMinutesDown": {}
   }
 ]
