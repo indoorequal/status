@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/indoorequal.org.ico",
     "slug": "indoorequal-org",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 622,
-    "timeDay": 642,
-    "timeWeek": 503,
-    "timeMonth": 544,
-    "timeYear": 622,
+    "uptimeYear": "99.97%",
+    "time": 620,
+    "timeDay": 382,
+    "timeWeek": 489,
+    "timeMonth": 540,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2022-08-27": 42,
       "2022-08-26": 18
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 650,
-    "timeDay": 671,
-    "timeWeek": 629,
+    "time": 649,
+    "timeDay": 484,
+    "timeWeek": 614,
     "timeMonth": 666,
-    "timeYear": 650,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2022-08-27": 42
     }
@@ -52,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 114,
-    "timeDay": 156,
-    "timeWeek": 114,
+    "timeDay": 91,
+    "timeWeek": 113,
     "timeMonth": 116,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 688,
+    "time": 645,
+    "timeDay": 403,
     "timeWeek": 650,
-    "timeMonth": 671,
-    "timeYear": 650,
+    "timeMonth": 669,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   }
 ]
