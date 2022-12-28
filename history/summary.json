@@ -4,10 +4,10 @@
     "url": "https://indoorequal.org",
     "icon": "https://icons.duckduckgo.com/ip3/indoorequal.org.ico",
     "slug": "indoorequal-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 606,
@@ -16,6 +16,7 @@
     "timeMonth": 577,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2022-12-28": 2,
       "2022-08-27": 42,
       "2022-08-26": 18
     }
@@ -25,10 +26,10 @@
     "url": "https://tiles.indoorequal.org/?key=$API_KEY",
     "icon": "https://icons.duckduckgo.com/ip3/tiles.indoorequal.org.ico",
     "slug": "tiles-indoorequal-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 666,
@@ -37,6 +38,7 @@
     "timeMonth": 657,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2022-12-28": 1,
       "2022-08-27": 42
     }
   },
@@ -45,10 +47,10 @@
     "url": "https://tiles.indoorequal.org/replicationstatus",
     "icon": "https://icons.duckduckgo.com/ip3/tiles.indoorequal.org.ico",
     "slug": "replication-lag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 116,
@@ -57,6 +59,7 @@
     "timeMonth": 121,
     "timeYear": 116,
     "dailyMinutesDown": {
+      "2022-12-28": 1,
       "2022-08-27": 42,
       "2022-08-14": 471,
       "2022-08-13": 249,
@@ -68,9 +71,9 @@
     "url": "https://taginfo.indoorequal.org/",
     "icon": "https://icons.duckduckgo.com/ip3/taginfo.indoorequal.org.ico",
     "slug": "taginfo-indoorequal-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -79,6 +82,8 @@
     "timeWeek": 753,
     "timeMonth": 880,
     "timeYear": 708,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-28": 0
+    }
   }
 ]
