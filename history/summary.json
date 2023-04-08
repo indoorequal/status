@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 591,
-    "timeDay": 413,
-    "timeWeek": 589,
+    "timeDay": 589,
+    "timeWeek": 580,
     "timeMonth": 598,
     "timeYear": 591,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 649,
-    "timeDay": 611,
-    "timeWeek": 715,
-    "timeMonth": 655,
-    "timeYear": 649,
+    "time": 650,
+    "timeDay": 756,
+    "timeWeek": 722,
+    "timeMonth": 663,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2022-08-27": 42
     }
@@ -46,14 +46,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiles.indoorequal.org.ico",
     "slug": "replication-lag",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 117,
-    "timeDay": 98,
-    "timeWeek": 125,
+    "timeDay": 142,
+    "timeWeek": 127,
     "timeMonth": 121,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -78,8 +78,8 @@
     "uptimeYear": "100.00%",
     "time": 682,
     "timeDay": 603,
-    "timeWeek": 804,
-    "timeMonth": 695,
+    "timeWeek": 806,
+    "timeMonth": 689,
     "timeYear": 682,
     "dailyMinutesDown": {}
   }
