@@ -70,17 +70,19 @@
     "url": "https://taginfo.indoorequal.org/",
     "icon": "https://icons.duckduckgo.com/ip3/taginfo.indoorequal.org.ico",
     "slug": "taginfo-indoorequal-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 687,
-    "timeDay": 861,
-    "timeWeek": 830,
-    "timeMonth": 731,
+    "timeDay": 766,
+    "timeWeek": 810,
+    "timeMonth": 729,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-24": 0
+    }
   }
 ]
