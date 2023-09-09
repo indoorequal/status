@@ -24,19 +24,19 @@
     "url": "https://tiles.indoorequal.org/?key=$API_KEY",
     "icon": "https://icons.duckduckgo.com/ip3/tiles.indoorequal.org.ico",
     "slug": "tiles-indoorequal-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 663,
-    "timeDay": 560,
-    "timeWeek": 622,
-    "timeMonth": 665,
-    "timeYear": 665,
+    "timeDay": 647,
+    "timeWeek": 644,
+    "timeMonth": 670,
+    "timeYear": 666,
     "dailyMinutesDown": {
-      "2023-09-09": 0
+      "2023-09-09": 7
     }
   },
   {
