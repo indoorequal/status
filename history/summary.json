@@ -13,7 +13,7 @@
     "time": 574,
     "timeDay": 682,
     "timeWeek": 587,
-    "timeMonth": 587,
+    "timeMonth": 590,
     "timeYear": 578,
     "dailyMinutesDown": {
       "2023-10-06": 159,
@@ -34,7 +34,7 @@
     "time": 662,
     "timeDay": 762,
     "timeWeek": 712,
-    "timeMonth": 707,
+    "timeMonth": 714,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2023-10-06": 158
@@ -47,9 +47,9 @@
     "slug": "replication-lag",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "98.84%",
     "time": 119,
     "timeDay": 120,
@@ -57,7 +57,6 @@
     "timeMonth": 129,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-04-30": 13,
       "2024-04-17": 71,
       "2024-04-16": 262,
       "2023-11-05": 553,
@@ -97,7 +96,7 @@
     "time": 748,
     "timeDay": 1111,
     "timeWeek": 808,
-    "timeMonth": 792,
+    "timeMonth": 796,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2024-04-23": 18,
