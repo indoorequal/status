@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 581,
-    "timeDay": 554,
-    "timeWeek": 548,
-    "timeMonth": 587,
+    "timeDay": 628,
+    "timeWeek": 567,
+    "timeMonth": 584,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2023-10-06": 159,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 676,
-    "timeDay": 910,
-    "timeWeek": 617,
-    "timeMonth": 689,
-    "timeYear": 674,
+    "timeDay": 966,
+    "timeWeek": 672,
+    "timeMonth": 696,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2023-10-06": 158
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.83%",
     "time": 119,
-    "timeDay": 95,
-    "timeWeek": 105,
-    "timeMonth": 118,
+    "timeDay": 112,
+    "timeWeek": 108,
+    "timeMonth": 117,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-06-02": 25,
@@ -90,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/taginfo.indoorequal.org.ico",
     "slug": "taginfo-indoorequal-org",
     "status": "up",
-    "uptime": "96.87%",
+    "uptime": "96.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.93%",
+    "uptimeWeek": "86.34%",
     "uptimeMonth": "91.73%",
-    "uptimeYear": "94.34%",
+    "uptimeYear": "94.39%",
     "time": 768,
-    "timeDay": 837,
-    "timeWeek": 712,
-    "timeMonth": 751,
-    "timeYear": 769,
+    "timeDay": 1082,
+    "timeWeek": 758,
+    "timeMonth": 766,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2024-06-29": 412,
       "2024-06-28": 627,
@@ -173,8 +173,7 @@
       "2023-07-26": 116,
       "2023-07-20": 32,
       "2023-07-14": 470,
-      "2023-07-06": 34,
-      "2023-07-05": 432
+      "2023-07-06": 34
     }
   }
 ]
