@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 593,
-    "timeDay": 735,
-    "timeWeek": 624,
-    "timeMonth": 768,
+    "time": 594,
+    "timeDay": 675,
+    "timeWeek": 641,
+    "timeMonth": 770,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2023-10-06": 159
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 687,
-    "timeDay": 770,
-    "timeWeek": 807,
-    "timeMonth": 799,
+    "timeDay": 703,
+    "timeWeek": 783,
+    "timeMonth": 791,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2023-10-06": 158
@@ -46,14 +46,14 @@
     "slug": "replication-lag",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "80.35%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.19%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.00%",
     "time": 119,
-    "timeDay": 125,
-    "timeWeek": 117,
-    "timeMonth": 117,
+    "timeDay": 157,
+    "timeWeek": 122,
+    "timeMonth": 118,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-08-05": 283,
@@ -87,13 +87,13 @@
     "status": "up",
     "uptime": "96.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.53%",
+    "uptimeWeek": "93.42%",
     "uptimeMonth": "93.76%",
     "uptimeYear": "94.15%",
     "time": 782,
-    "timeDay": 1092,
-    "timeWeek": 773,
-    "timeMonth": 884,
+    "timeDay": 926,
+    "timeWeek": 753,
+    "timeMonth": 892,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2024-07-31": 718,
@@ -170,8 +170,7 @@
       "2023-08-22": 195,
       "2023-08-20": 58,
       "2023-08-12": 141,
-      "2023-08-09": 242,
-      "2023-08-08": 26
+      "2023-08-09": 242
     }
   }
 ]
