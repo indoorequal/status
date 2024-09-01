@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 594,
-    "timeDay": 803,
-    "timeWeek": 649,
-    "timeMonth": 616,
-    "timeYear": 600,
+    "time": 595,
+    "timeDay": 571,
+    "timeWeek": 635,
+    "timeMonth": 614,
+    "timeYear": 601,
     "dailyMinutesDown": {
       "2023-10-06": 159
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 689,
-    "timeDay": 1016,
-    "timeWeek": 868,
-    "timeMonth": 761,
+    "timeDay": 664,
+    "timeWeek": 812,
+    "timeMonth": 760,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2023-10-06": 158
@@ -51,10 +51,10 @@
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.64%",
     "time": 120,
-    "timeDay": 143,
-    "timeWeek": 141,
-    "timeMonth": 128,
-    "timeYear": 121,
+    "timeDay": 659,
+    "timeWeek": 194,
+    "timeMonth": 142,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2024-08-05": 283,
       "2024-06-02": 25,
@@ -68,8 +68,7 @@
       "2023-10-09": 25,
       "2023-10-06": 218,
       "2023-09-17": 148,
-      "2023-09-16": 26,
-      "2023-09-02": 19
+      "2023-09-16": 26
     }
   },
   {
@@ -79,14 +78,14 @@
     "slug": "taginfo-indoorequal-org",
     "status": "up",
     "uptime": "96.38%",
-    "uptimeDay": "77.64%",
-    "uptimeWeek": "86.92%",
-    "uptimeMonth": "86.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "88.25%",
     "uptimeYear": "93.30%",
-    "time": 777,
-    "timeDay": 831,
-    "timeWeek": 858,
-    "timeMonth": 790,
+    "time": 778,
+    "timeDay": 715,
+    "timeWeek": 864,
+    "timeMonth": 793,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2024-08-30": 322,
