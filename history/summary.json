@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 599,
-    "timeDay": 584,
-    "timeWeek": 699,
-    "timeMonth": 631,
+    "timeDay": 748,
+    "timeWeek": 676,
+    "timeMonth": 636,
     "timeYear": 603,
-    "dailyMinutesDown": {
-      "2023-10-06": 159
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tiles.indoorequal.org",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 690,
-    "timeDay": 707,
-    "timeWeek": 764,
-    "timeMonth": 719,
-    "timeYear": 692,
-    "dailyMinutesDown": {
-      "2023-10-06": 158
-    }
+    "timeDay": 817,
+    "timeWeek": 778,
+    "timeMonth": 725,
+    "timeYear": 693,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Replication lag",
@@ -51,9 +47,9 @@
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.61%",
     "time": 121,
-    "timeDay": 107,
+    "timeDay": 153,
     "timeWeek": 126,
-    "timeMonth": 119,
+    "timeMonth": 120,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2024-10-03": 286,
@@ -69,8 +65,7 @@
       "2023-10-24": 63,
       "2023-10-23": 127,
       "2023-10-22": 72,
-      "2023-10-09": 25,
-      "2023-10-06": 218
+      "2023-10-09": 25
     }
   },
   {
@@ -79,16 +74,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/taginfo.indoorequal.org.ico",
     "slug": "taginfo-indoorequal-org",
     "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "51.00%",
-    "uptimeWeek": "85.21%",
+    "uptime": "95.84%",
+    "uptimeDay": "65.83%",
+    "uptimeWeek": "87.18%",
     "uptimeMonth": "80.90%",
-    "uptimeYear": "92.06%",
-    "time": 790,
-    "timeDay": 759,
-    "timeWeek": 800,
-    "timeMonth": 808,
-    "timeYear": 773,
+    "uptimeYear": "92.12%",
+    "time": 791,
+    "timeDay": 962,
+    "timeWeek": 835,
+    "timeMonth": 816,
+    "timeYear": 775,
     "dailyMinutesDown": {
       "2024-10-04": 551,
       "2024-10-03": 154,
@@ -188,8 +183,7 @@
       "2023-11-17": 822,
       "2023-11-07": 29,
       "2023-10-28": 254,
-      "2023-10-07": 145,
-      "2023-10-06": 157
+      "2023-10-07": 145
     }
   }
 ]
