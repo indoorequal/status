@@ -1,7 +1,7 @@
 url: https://tiles.indoorequal.org/replicationstatus
-status: degraded
+status: up
 code: 200
-responseTime: 90
-lastUpdated: 2024-12-17T21:32:08.195Z
+responseTime: 91
+lastUpdated: 2024-12-17T21:39:11.955Z
 startTime: 2022-06-23T17:20:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
