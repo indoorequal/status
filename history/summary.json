@@ -42,9 +42,9 @@
     "slug": "replication-lag",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.06%",
     "time": 121,
     "timeDay": 92,
@@ -52,7 +52,6 @@
     "timeMonth": 108,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-01-23": 6,
       "2025-01-17": 41,
       "2024-12-30": 26,
       "2024-12-17": 1226,
@@ -78,18 +77,19 @@
     "url": "https://taginfo.indoorequal.org/",
     "icon": "https://icons.duckduckgo.com/ip3/taginfo.indoorequal.org.ico",
     "slug": "taginfo-indoorequal-org",
-    "status": "up",
-    "uptime": "97.04%",
-    "uptimeDay": "71.08%",
+    "status": "down",
+    "uptime": "97.14%",
+    "uptimeDay": "86.52%",
     "uptimeWeek": "94.23%",
     "uptimeMonth": "94.81%",
-    "uptimeYear": "92.91%",
-    "time": 789,
-    "timeDay": 695,
-    "timeWeek": 792,
+    "uptimeYear": "93.13%",
+    "time": 790,
+    "timeDay": 744,
+    "timeWeek": 797,
     "timeMonth": 822,
     "timeYear": 797,
     "dailyMinutesDown": {
+      "2025-01-23": 0,
       "2025-01-22": 416,
       "2025-01-20": 165,
       "2025-01-08": 176,
@@ -196,9 +196,7 @@
       "2024-03-27": 206,
       "2024-03-25": 508,
       "2024-03-24": 83,
-      "2024-03-09": 1023,
-      "2024-02-24": 1053,
-      "2024-02-23": 100
+      "2024-03-09": 1023
     }
   }
 ]
