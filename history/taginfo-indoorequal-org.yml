@@ -1,7 +1,7 @@
 url: https://taginfo.indoorequal.org/
-status: up
-code: 200
-responseTime: 791
-lastUpdated: 2025-04-25T23:12:03.768Z
+status: down
+code: 500
+responseTime: 750
+lastUpdated: 2025-04-26T20:10:41.610Z
 startTime: 2022-09-01T14:30:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
