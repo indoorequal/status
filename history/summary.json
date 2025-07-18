@@ -42,13 +42,13 @@
     "slug": "replication-lag",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.05%",
     "uptimeMonth": "93.30%",
     "uptimeYear": "98.36%",
     "time": 121,
-    "timeDay": 124,
-    "timeWeek": 127,
+    "timeDay": 111,
+    "timeWeek": 128,
     "timeMonth": 124,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -109,15 +109,15 @@
     "url": "https://taginfo.indoorequal.org/",
     "icon": "https://icons.duckduckgo.com/ip3/taginfo.indoorequal.org.ico",
     "slug": "taginfo-indoorequal-org",
-    "status": "up",
+    "status": "down",
     "uptime": "96.92%",
-    "uptimeDay": "33.52%",
+    "uptimeDay": "74.94%",
     "uptimeWeek": "50.89%",
     "uptimeMonth": "78.35%",
-    "uptimeYear": "91.13%",
+    "uptimeYear": "91.14%",
     "time": 812,
-    "timeDay": 1011,
-    "timeWeek": 912,
+    "timeDay": 982,
+    "timeWeek": 909,
     "timeMonth": 849,
     "timeYear": 819,
     "dailyMinutesDown": {
@@ -233,8 +233,7 @@
       "2024-10-14": 161,
       "2024-10-12": 198,
       "2024-10-11": 216,
-      "2024-10-08": 837,
-      "2024-10-07": 27
+      "2024-10-08": 837
     }
   }
 ]
