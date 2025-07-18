@@ -109,18 +109,19 @@
     "url": "https://taginfo.indoorequal.org/",
     "icon": "https://icons.duckduckgo.com/ip3/taginfo.indoorequal.org.ico",
     "slug": "taginfo-indoorequal-org",
-    "status": "up",
+    "status": "down",
     "uptime": "96.94%",
-    "uptimeDay": "33.05%",
+    "uptimeDay": "33.51%",
     "uptimeWeek": "54.14%",
     "uptimeMonth": "79.10%",
-    "uptimeYear": "91.19%",
-    "time": 811,
-    "timeDay": 1247,
-    "timeWeek": 930,
+    "uptimeYear": "91.20%",
+    "time": 812,
+    "timeDay": 1110,
+    "timeWeek": 924,
     "timeMonth": 852,
     "timeYear": 819,
     "dailyMinutesDown": {
+      "2025-07-18": 0,
       "2025-07-17": 1041,
       "2025-07-16": 1119,
       "2025-07-15": 1215,
@@ -233,8 +234,7 @@
       "2024-10-12": 198,
       "2024-10-11": 216,
       "2024-10-08": 837,
-      "2024-10-07": 27,
-      "2024-10-05": 44
+      "2024-10-07": 27
     }
   }
 ]
