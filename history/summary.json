@@ -42,17 +42,16 @@
     "slug": "replication-lag",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "96.26%",
-    "uptimeMonth": "92.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.38%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "98.67%",
     "time": 123,
     "timeDay": 92,
-    "timeWeek": 131,
+    "timeWeek": 129,
     "timeMonth": 128,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-08-17": 12,
       "2025-08-15": 21,
       "2025-08-14": 49,
       "2025-08-13": 154,
@@ -104,7 +103,8 @@
       "2025-05-17": 21,
       "2025-05-16": 94,
       "2025-05-13": 377,
-      "2025-05-12": 260
+      "2025-05-12": 260,
+      "2025-05-11": 16
     }
   },
   {
@@ -112,18 +112,19 @@
     "url": "https://taginfo.indoorequal.org/",
     "icon": "https://icons.duckduckgo.com/ip3/taginfo.indoorequal.org.ico",
     "slug": "taginfo-indoorequal-org",
-    "status": "up",
-    "uptime": "96.89%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.90%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "71.31%",
-    "uptimeMonth": "88.21%",
-    "uptimeYear": "90.78%",
+    "uptimeMonth": "88.49%",
+    "uptimeYear": "90.82%",
     "time": 816,
-    "timeDay": 661,
-    "timeWeek": 866,
-    "timeMonth": 875,
+    "timeDay": 726,
+    "timeWeek": 860,
+    "timeMonth": 873,
     "timeYear": 820,
     "dailyMinutesDown": {
+      "2025-08-17": 0,
       "2025-08-15": 320,
       "2025-08-12": 984,
       "2025-08-11": 1440,
@@ -236,8 +237,7 @@
       "2024-10-27": 512,
       "2024-10-26": 656,
       "2024-10-25": 402,
-      "2024-10-24": 199,
-      "2024-10-23": 190
+      "2024-10-24": 199
     }
   }
 ]
