@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
-    "timeDay": 430,
-    "timeWeek": 581,
-    "timeMonth": 678,
+    "timeDay": 606,
+    "timeWeek": 556,
+    "timeMonth": 665,
     "timeYear": 631,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 616,
-    "timeWeek": 616,
-    "timeMonth": 734,
-    "timeYear": 754,
+    "timeDay": 802,
+    "timeWeek": 634,
+    "timeMonth": 739,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -42,17 +42,17 @@
     "slug": "replication-lag",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "94.56%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "95.95%",
+    "uptimeMonth": "94.59%",
+    "uptimeYear": "99.16%",
     "time": 124,
-    "timeDay": 120,
-    "timeWeek": 132,
+    "timeDay": 122,
+    "timeWeek": 131,
     "timeMonth": 126,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-10-24": 43,
+      "2025-10-24": 28,
       "2025-10-23": 91,
       "2025-10-22": 97,
       "2025-10-19": 90,
@@ -96,7 +96,7 @@
       "2025-08-30": 79,
       "2025-08-29": 22,
       "2025-08-28": 127,
-      "2025-08-27": 43
+      "2025-08-27": 99
     }
   },
   {
@@ -111,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.14%",
     "time": 820,
-    "timeDay": 656,
-    "timeWeek": 718,
+    "timeDay": 723,
+    "timeWeek": 708,
     "timeMonth": 805,
     "timeYear": 820,
     "dailyMinutesDown": {
