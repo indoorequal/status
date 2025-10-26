@@ -42,17 +42,16 @@
     "slug": "replication-lag",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "96.69%",
-    "uptimeMonth": "94.62%",
-    "uptimeYear": "99.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "94.65%",
+    "uptimeYear": "99.16%",
     "time": 124,
     "timeDay": 131,
     "timeWeek": 133,
     "timeMonth": 127,
     "timeYear": 124,
     "dailyMinutesDown": {
-      "2025-10-25": 14,
       "2025-10-24": 28,
       "2025-10-23": 91,
       "2025-10-22": 97,
@@ -97,7 +96,7 @@
       "2025-08-30": 79,
       "2025-08-29": 22,
       "2025-08-28": 127,
-      "2025-08-27": 43
+      "2025-08-27": 99
     }
   },
   {
