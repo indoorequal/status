@@ -42,17 +42,17 @@
     "slug": "replication-lag",
     "status": "degraded",
     "uptime": "99.75%",
-    "uptimeDay": "74.73%",
-    "uptimeWeek": "93.15%",
-    "uptimeMonth": "93.46%",
-    "uptimeYear": "99.15%",
+    "uptimeDay": "74.97%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "93.36%",
+    "uptimeYear": "99.16%",
     "time": 126,
-    "timeDay": 251,
-    "timeWeek": 171,
+    "timeDay": 252,
+    "timeWeek": 172,
     "timeMonth": 137,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-10-31": 0,
+      "2025-10-31": 40,
       "2025-10-30": 365,
       "2025-10-29": 143,
       "2025-10-28": 78,
@@ -95,8 +95,7 @@
       "2025-09-09": 146,
       "2025-09-08": 113,
       "2025-09-05": 109,
-      "2025-09-04": 153,
-      "2025-09-02": 79
+      "2025-09-04": 153
     }
   },
   {
@@ -105,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/taginfo.indoorequal.org.ico",
     "slug": "taginfo-indoorequal-org",
     "status": "up",
-    "uptime": "96.88%",
+    "uptime": "96.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
