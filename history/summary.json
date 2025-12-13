@@ -41,11 +41,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiles.indoorequal.org.ico",
     "slug": "replication-lag",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "91.91%",
+    "uptime": "99.65%",
+    "uptimeDay": "91.90%",
     "uptimeWeek": "89.21%",
-    "uptimeMonth": "92.14%",
-    "uptimeYear": "98.76%",
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "98.77%",
     "time": 128,
     "timeDay": 121,
     "timeWeek": 131,
@@ -98,7 +98,7 @@
       "2025-10-26": 23,
       "2025-10-24": 28,
       "2025-10-23": 91,
-      "2025-10-22": 97
+      "2025-10-22": 51
     }
   },
   {
