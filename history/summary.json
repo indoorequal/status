@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
-    "timeDay": 656,
-    "timeWeek": 691,
+    "timeDay": 671,
+    "timeWeek": 674,
     "timeMonth": 677,
     "timeYear": 639,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 757,
-    "timeDay": 1006,
-    "timeWeek": 940,
-    "timeMonth": 848,
+    "timeDay": 836,
+    "timeWeek": 921,
+    "timeMonth": 844,
     "timeYear": 757,
     "dailyMinutesDown": {}
   },
@@ -42,13 +42,13 @@
     "slug": "replication-lag",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "97.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "93.98%",
     "uptimeYear": "98.76%",
     "time": 128,
-    "timeDay": 125,
-    "timeWeek": 123,
+    "timeDay": 114,
+    "timeWeek": 119,
     "timeMonth": 140,
     "timeYear": 129,
     "dailyMinutesDown": {
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.07%",
     "time": 828,
-    "timeDay": 1028,
-    "timeWeek": 831,
-    "timeMonth": 905,
+    "timeDay": 1299,
+    "timeWeek": 901,
+    "timeMonth": 907,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2025-08-22": 446,
@@ -211,8 +211,7 @@
       "2025-01-08": 176,
       "2025-01-06": 472,
       "2025-01-05": 84,
-      "2025-01-02": 491,
-      "2024-12-30": 469
+      "2025-01-02": 491
     }
   }
 ]
