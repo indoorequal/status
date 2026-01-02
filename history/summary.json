@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
-    "timeDay": 658,
-    "timeWeek": 671,
+    "timeDay": 606,
+    "timeWeek": 664,
     "timeMonth": 679,
     "timeYear": 639,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 758,
-    "timeDay": 922,
-    "timeWeek": 883,
-    "timeMonth": 852,
-    "timeYear": 757,
+    "timeDay": 632,
+    "timeWeek": 828,
+    "timeMonth": 845,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   },
   {
@@ -44,12 +44,12 @@
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.69%",
-    "uptimeMonth": "93.88%",
+    "uptimeMonth": "94.45%",
     "uptimeYear": "98.74%",
     "time": 128,
-    "timeDay": 110,
-    "timeWeek": 117,
-    "timeMonth": 140,
+    "timeDay": 91,
+    "timeWeek": 116,
+    "timeMonth": 139,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2025-12-30": 100,
@@ -106,15 +106,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/taginfo.indoorequal.org.ico",
     "slug": "taginfo-indoorequal-org",
     "status": "up",
-    "uptime": "97.04%",
+    "uptime": "97.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.16%",
     "time": 827,
-    "timeDay": 742,
-    "timeWeek": 891,
-    "timeMonth": 898,
+    "timeDay": 514,
+    "timeWeek": 836,
+    "timeMonth": 880,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2025-08-22": 446,
@@ -211,8 +211,7 @@
       "2025-01-20": 165,
       "2025-01-08": 176,
       "2025-01-06": 472,
-      "2025-01-05": 84,
-      "2025-01-02": 491
+      "2025-01-05": 84
     }
   }
 ]
