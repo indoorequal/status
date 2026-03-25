@@ -1,7 +1,7 @@
 url: https://tiles.indoorequal.org/?key=$API_KEY
-status: down
-code: 500
-responseTime: 4218
-lastUpdated: 2026-03-25T16:50:33.493Z
+status: up
+code: 200
+responseTime: 1002
+lastUpdated: 2026-03-25T17:44:00.634Z
 startTime: 2022-06-23T17:20:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
