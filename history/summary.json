@@ -47,16 +47,16 @@
     "url": "https://tiles.indoorequal.org/replicationstatus",
     "icon": "https://icons.duckduckgo.com/ip3/tiles.indoorequal.org.ico",
     "slug": "replication-lag",
-    "status": "degraded",
-    "uptime": "99.29%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "94.99%",
-    "uptimeYear": "97.17%",
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "94.82%",
+    "uptimeYear": "97.15%",
     "time": 145,
-    "timeDay": 410,
-    "timeWeek": 437,
-    "timeMonth": 451,
+    "timeDay": 451,
+    "timeWeek": 446,
+    "timeMonth": 453,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-11-25": 125,
@@ -134,7 +134,7 @@
       "2026-05-31": 63,
       "2026-06-06": 69,
       "2026-06-09": 150,
-      "2026-06-14": 0
+      "2026-06-14": 75
     }
   },
   {
