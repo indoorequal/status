@@ -12,8 +12,8 @@
     "uptimeYear": "99.92%",
     "time": 627,
     "timeDay": 589,
-    "timeWeek": 643,
-    "timeMonth": 573,
+    "timeWeek": 588,
+    "timeMonth": 572,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2026-04-03": 345,
@@ -33,8 +33,8 @@
     "uptimeYear": "99.91%",
     "time": 755,
     "timeDay": 618,
-    "timeWeek": 716,
-    "timeMonth": 671,
+    "timeWeek": 728,
+    "timeMonth": 663,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2026-03-25": 53,
@@ -47,17 +47,17 @@
     "url": "https://tiles.indoorequal.org/replicationstatus",
     "icon": "https://icons.duckduckgo.com/ip3/tiles.indoorequal.org.ico",
     "slug": "replication-lag",
-    "status": "degraded",
-    "uptime": "99.29%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "92.95%",
-    "uptimeMonth": "93.98%",
-    "uptimeYear": "97.02%",
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "65.01%",
+    "uptimeWeek": "87.95%",
+    "uptimeMonth": "92.83%",
+    "uptimeYear": "96.92%",
     "time": 195,
-    "timeDay": 365,
-    "timeWeek": 450,
-    "timeMonth": 462,
-    "timeYear": 200,
+    "timeDay": 339,
+    "timeWeek": 444,
+    "timeMonth": 460,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2026-03-20": 23,
       "2026-03-21": 18,
@@ -138,7 +138,8 @@
       "2026-08-25": 22,
       "2026-08-26": 368,
       "2026-08-27": 2,
-      "2026-08-28": 0
+      "2026-08-29": 6,
+      "2026-08-28": 498
     }
   },
   {
@@ -154,9 +155,9 @@
     "uptimeYear": "99.92%",
     "time": 821,
     "timeDay": 647,
-    "timeWeek": 765,
-    "timeMonth": 762,
-    "timeYear": 811,
+    "timeWeek": 760,
+    "timeMonth": 755,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2026-04-03": 345,
       "2026-04-02": 55
